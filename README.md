@@ -1,5 +1,9 @@
-### Hi there 👋
-
+main | Remigiusz@github.com $ lsb_release -a
+Name: Remigiusz Skladanek
+Email: root@localhost
+Address: 127.0.0.1 (localhost)
+Birthdate: 04/01/2002
+Detailed info: https://www.linkedin.com/in/remigiusz-skladanek/
 <!--
 **Rskladanek/Rskladanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
