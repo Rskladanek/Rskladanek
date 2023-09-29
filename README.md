@@ -1,20 +1,8 @@
-main | Remigiusz@github.com $ lsb_release -a
+```bash
+main | Remigiusz@github ~ $ cat info.txt
 Name: Remigiusz Skladanek
-Email: root@localhost
-Address: 127.0.0.1 (localhost)
-Birthdate: 04/01/2002
-Detailed info: https://www.linkedin.com/in/remigiusz-skladanek/
-<!--
-**Rskladanek/Rskladanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [Email hidden for security reasons]
+Location: localhost (127.0.0.1)
+Details: Passionate about Linux & Cybersecurity. 
+Connect: https://www.linkedin.com/in/remigiusz-skladanek/
+```
