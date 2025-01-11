@@ -55,10 +55,10 @@ Welcome to my GitHub profile. I'm deep into tech, always pushing the limits, and
 <div align="center">
   
   <!-- Przykładowe przypięte repozytoria (zmień nazwy repo na swoje) -->
-  <a href="https://github.com/Rskladanek/your-awesome-project">
+  <a href="https://github.com/Rskladanek/Trojan">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rskladanek&repo=Trojan&theme=radical" />
   </a>
-  <a href="https://github.com/Rskladanek/another-cool-project">
+  <a href="https://github.com/Rskladanek/PhishSim-Toolkit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rskladanek&repo=PhishSim-Toolkit&theme=radical" />
   </a>
   
